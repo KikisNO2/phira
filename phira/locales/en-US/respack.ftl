@@ -1,12 +1,12 @@
 
-default = Default
-load-failed = Failed to load respack
+default = Padrão
+load-failed = Não foi possível carregar a skin.
 
-info = Respack Info
+info = Informações da skin
 info-content =
-  Name: { $name }
-  Author: { $author }
-  Description: { $desc }
+  Nome: { $name }
+  Autor: { $author }
+  Descrição: { $desc }
 
-cant-delete-builtin = Can't delete builtin respack
-deleted = Deleted
+cant-delete-builtin = Não pode deletar a skin padrão
+deleted = Deletado
