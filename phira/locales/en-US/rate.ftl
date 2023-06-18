@@ -1,11 +1,11 @@
 
-rate = Rate
-filter = Filter by rating
+rate = Classificar
+filter = Filtrar por classificação
 
-cancel = Cancel
-confirm = Confirm
+cancel = Cancelar
+confirm = Confirmar
 
-lower-bound = Lower bound
-upper-bound = Upper bound
+lower-bound = Mínimo
+upper-bound = Máximo
 
-filter-by-tags = Filter by tags
+filter-by-tags = Filtrar pelas tags
