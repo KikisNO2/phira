@@ -1,17 +1,17 @@
 
 local = Local
 popular = Popular
-list-empty = Nothing here
+list-empty = Nada aqui...
 
-page = Page { $current } / { $total }
-prev-page = Prev page
-next-page = Next page
+page = Pagina { $current } / { $total }
+prev-page = Pagina anterior
+next-page = Próxima pagina
 
-not-opened = Not available yet
-failed-to-load-online = Failed to load online beatmaps
+not-opened = Não está disponível
+failed-to-load-online = Não foi possível carregar os beatmaps
 
-import = Import
+import = Importar
 
-offline-mode = Can't load online beatmaps in offline mode
+offline-mode = Não pode carregar beatmaps online no modo offline.
 
-must-login = You must login to view online charts
+must-login = Você deve entrar para acessar os beatmaps online.
