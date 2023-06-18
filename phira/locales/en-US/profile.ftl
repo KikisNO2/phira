@@ -1,9 +1,9 @@
 
-logout = Logout
-logged-out = Logged out
+logout = Sair
+logged-out = Saiu
 
-load-user-failed = Failed to fetch user info
-edit-avatar-success = Avatar updated
-edit-avatar-failed = Failed to update avatar
+load-user-failed = Falha ao buscar informações do usuário.
+edit-avatar-success = Avatar atualizado
+edit-avatar-failed = Não foi possível atualizar o avatar do usuário.
 
-uploading-avatar = Uploading avatar
+uploading-avatar = Fazendo o upload...
