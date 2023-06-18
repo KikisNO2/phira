@@ -1,9 +1,9 @@
 
-play = Play
-event = Event
-respack = Respack
+play = Jogar
+event = Evento
+respack = Skin
 
-not-opened = Not available yet
-not-logged-in = Not logged in
+not-opened = Não disponível agora
+not-logged-in = Não está logado
 
-failed-to-update = Failed to update user info
+failed-to-update = Não foi possível atualizar as informações do usuário.
