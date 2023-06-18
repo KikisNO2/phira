@@ -1,34 +1,34 @@
 
 multiplayer = Multiplayer
 
-connect = Connect
-connect-must-login = You must login to enter multiplayer mode
-connect-success = Connected successfully
-connect-failed = Failed to connect
-connect-authorize-failed = Authorization failed
+connect = Connectar
+connect-must-login = Você deve entrar para usar o multiplayer
+connect-success = Connectado com sucesso
+connect-failed = Não foi possível conectar
+connect-authorize-failed = A sua autorização falhou
 
-create-room = Create Room
-create-room-success = Room created
-create-room-failed = Failed to create room
+create-room = Criar sala
+create-room-success = Sala criada
+create-room-failed = Não foi possível criar a sala
 
-join-room = Join Room
-join-room-invalid-id = Invalid room ID
+join-room = Entrar na sala
+join-room-invalid-id = ID de sala invalido
 
-leave-room = Leave Room
-leave-room-failed = Failed to leave room
+leave-room = Sair da sala
+leave-room-failed = Não foi possível sair da sala
 
-disconnect = Disconnect
+disconnect = Desconectar
 
-request-start = Start Game
-request-start-no-chart = You haven't selected a chart
-request-start-failed = Failed to start game
+request-start = Iniciar o jogo
+request-start-no-chart = Você não escolheu a fase.
+request-start-failed = Não foi possível começar o jogo
 
-ready = Ready
-ready-failed = Failed to get ready
+ready = Pronto
+ready-failed = Não foi possivel se preparar ;-;
 
-cancel-ready = Cancel
+cancel-ready = Cancelar
 
-room-id = Room ID: { $id }
+room-id = ID de sala: { $id }
 
 download-failed = Failed to download chart
 
