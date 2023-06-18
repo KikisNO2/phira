@@ -1,15 +1,15 @@
 
-del-confirm = Are you sure to delete?
-del-confirm-content = This operation can not be undone.
+del-confirm = Tem certeza que você quer deletar?
+del-confirm-content = Essa ação não pode ser desfeita.
 
-cancel = Cancel
-confirm = Confirm
+cancel = Cancelar
+confirm = Confirmar
 
-release-to-refresh = Release to refresh
+release-to-refresh = Solte para recarregar
 
 switch-on = On
 switch-off = Off
 
-chart-ranked = Ranked
-chart-special = Special
-chart-unstable = Unstable
+chart-ranked = Ranqueado
+chart-special = Especial
+chart-unstable = Instavel
