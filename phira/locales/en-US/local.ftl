@@ -1,7 +1,7 @@
 
 label = Local
 
-import-failed = Failed to import
-import-success = Imported successfully
+import-failed = Não foi possível importar
+import-success = Importado com sucesso
 
-not-loaded = Not yet finished loading
+not-loaded = Ainda não terminou de carregar.
