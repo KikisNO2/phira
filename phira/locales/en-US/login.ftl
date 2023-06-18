@@ -1,27 +1,27 @@
 
-login = Login
-login-sub = Login to engage with the active online community
-back-login = Back to Login
-register = Register
+login = Entrar
+login-sub = Entre para interagir com a comunidade online ativa
+back-login = Volte ao login
+register = Registrar
 
-email = Email address
-username = Username
-password = Password
+email = Endereço de e-mail
+username = Usuário
+password = Senha
 
-name-length-req = Username length should be between 4 and 20
-name-has-illegal-char = Username contains illegal characters
-pwd-length-req = Password length should be between 6 and 26
-illegal-email = Illegal email
+name-length-req = Nome de usuário deve ser de 4 a 20 caracteres.
+name-has-illegal-char = Nome de usuário contem caracteres ilegais.
+pwd-length-req = Senha deve ser de 4 a 26 caracteres.
+illegal-email = E-mail ilegal
 
 action-success = { $action ->
-  [login] Logged in successfully
-  [register] Registered successfully
+  [login] Entrou com sucesso
+  [register] Registrado com sucesso
   *[other] _
 }
 action-failed = { $action ->
-  [login] Failed to log in
-  [register] Failed to register
+  [login] Não foi possível fazer o login
+  [register] Não foi possível registrar o usuário
   *[other] _
 }
 
-email-sent = An verification email has been sent, please verify and log in
+email-sent = Um e-mail de verificação foi enviado, por favor verifique e entre com o seu login.
