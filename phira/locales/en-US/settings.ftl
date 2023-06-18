@@ -34,19 +34,19 @@ item-opt-sub = Melhora o desempenho, mas pode causar comportamentos estranhos.
 item-speed = Velocidade
 item-note-size = Tamanho da nota
 
-item-chart-debug = Beatmap debug mode
-item-chart-debug-sub = Display line number and orientation
-item-touch-debug = Touch debug mode
-item-touch-debug-sub = Display touch points
+item-chart-debug = Modo debug de beatmap
+item-chart-debug-sub = Mostrar ID de linha e orientação.
+item-touch-debug = Debug de toque
+item-touch-debug-sub = Mostrar pontos de toque
 
-load-cali-failed = Failed to load audio
+load-cali-failed = Não foi possível carregar o audio
 
 about-content =
   Phira v{ $version }
 
-  Phira is a non-commercial community-driven rhythm game, inspired by Phigros, developed with Rust.
+  Phira e um jogo não comercial dirigido pela comunidade, inspirado em Phigros, escrito em Rust
 
-  If you enjoy the game, please consider supporting us on Patreon (@PhiraGame) or afdian.com (@Mivik). Your support is the greatest impetus for us!
+  Se você gosta do jogo, por favor considere suportando a gente no patreon (@PhiraGame) ou afdian.com (@Mivik) Seu suporte e o melhor impulso para nos.
 
-  BiliBili Account: @Phira官方
+  Canal do BiliBili: @Phira官方
   QQ Guild: r48eajexth
