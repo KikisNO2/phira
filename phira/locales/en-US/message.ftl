@@ -1,4 +1,4 @@
 
-load-msg-fail = Failed to load messages
-no-msg = Nothing yet
-subtitle = { $author } at { $time }
+load-msg-fail = Não foi possível carregar as mensagens.
+no-msg = Nada ainda.
+subtitle = { $author } as { $time }
