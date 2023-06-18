@@ -1,105 +1,106 @@
 
-load-preview-failed = Failed to load song preview
-load-charts-failed = Failed to load beatmaps
-no-chart-for-download = This beatmap is not downloadable
+load-preview-failed = Não foi possível carregar a demonstração da música
+load-charts-failed = Não foi possível carregar os beatmaps
+no-chart-for-download = Não e possível baixar esse beatmap
 
-load-chart-failed = Failed to load the beatmap
+load-chart-failed = Não foi sucessivel carregar o beatmap
 
-dl-cancel = Cancel
-dl-status-fetch = Fetching info
-dl-status-song = Downloading song
-dl-status-chart = Downloading chart
-dl-status-extract = Extracting
-dl-status-illustration = Downloading illustration
-dl-status-assets = Downloading assets
-dl-status-saving = Saving
-dl-failed = Download failed
-dl-success = Downloaded
+dl-cancel = Cancelar
+dl-status-fetch = Carregando as informações
+dl-status-song = Baixando a musica
+dl-status-chart = Baixando o beatmap
+dl-status-extract = Extraindo
+dl-status-illustration = Baixando a illustração
+dl-status-assets = Baixando os assets
+dl-status-saving = Salvando
+dl-failed = Não foi possivel baixar
+dl-success = Baixado
 
-guest = Guest
+guest = Convidado
 
-warn-unrated = This play is unrated
-failed-to-play = Failed to start as online mode
-play-cancel = Cancel
-play-switch-to-offline = Switch to offline mode
-switched-to-offline = Switched to offline mode
+warn-unrated = Essa tentativa não sera registrada
+failed-to-play = Não foi possivel começar no modo online
+play-cancel = Cancelar
+play-switch-to-offline = Mudar para o modo offline
+switched-to-offline = Mudou para o modo offline
 
-delete = Delete
-rate = Rate
-exercise = Exercise
-offset = Adjust offset
+delete = Deletar
+rate = Classificar
+exercise = Praticar
+offset = Ajustar o offset
 
-edit-cancel = Cancel
-edit-save = Save
-edit-saving = Saving
-edit-load-file-failed = Failed to load external file
-edit-save-failed = Save failed
-edit-saved = Saved
-edit-preview-invalid = Preview time out of bounds
-edit-tags = Edit tags
-edit-downloaded = You can't edit downloaded chart
+edit-cancel = Cancelar
+edit-save = Salvar
+edit-saving = Salvando
+edit-load-file-failed = Não foi possivel carregar o arquivo externo
+edit-save-failed = Não foi possivel salvar
+edit-saved = Salvado
+edit-preview-invalid = Tempo de demonstração fora do radar
+edit-tags = Editar tags
+edit-downloaded = Você não pode editar um beatmap baixado
 
 edit-upload = Upload
-edit-update = Update
+edit-update = Atualizar
 
-upload-login-first = Please login first
-upload-builtin = Built-in beatmaps cannot be uploaded
-upload-downloaded = Downloaded beatmaps cannot be uploaded
-upload-rules = Upload rules
+upload-login-first = Por favor entre primeiro
+upload-builtin = Beatmaps incluidos não pode levar 'upload'
+upload-downloaded = Beatmaps baixados não pode levar 'upload'
+upload-rules = Regras de upload
 upload-rules-content =
-  Before uploading, you need to confirm that:
-  1. ! The beatmap is created by me.
-  2. It is recommended to use a highly recognizable avatar and ID; If the avatar ID you use in Phira is quite different from the self-made score video publishing platform (specifically, BiliBili), additional annotations are required;
-  3. ! It is forbidden to violate the rules and upload the beatmap without the consent of the scorer, otherwise you may face the penalty of permanent ban on uploading;
-  4. The content of the beatmap (including music, illustrations, text, etc.) must comply with other laws and regulations of the People's Republic of China, and must not violate the law or contain bad information.
-upload-cancel = Cancel
-upload-confirm = Confirm
-uploading = Uploading
-upload-chart-failed = Failed to upload beatmap
-upload-success = Uploaded successfully, please wait for review!
-upload-failed = Upload failed
+Antes de fazer o upload você precisa confirmar que:
+1. ! O beatmap foi feito por mim;
+2. E recomendado que você use um avatar e usuário reconhecível; Se o usuário e avatar que você usa no Phira e diferente na plataforma onde você publica seus beatmaps (Em específico, BiliBili), anotações adicionais e necessário;
+3. ! E proibido violar as regras e fazer o upload do beatmap sem a permissão do criador do beatmap, ou você pode receber a pena de ban permanente no upload;
+4. O conteúdo do beatmap (incluindo música, ilustrações, texto, etc.) esta regulada com as leis e regulações da República Democrática da China, e não pode violar a lei ou conter má informação.
 
-ldb = Leaderboard
-ldb-load-failed = Failed to load leaderboard
-ldb-no-rank = None
-ldb-score = Score
+upload-cancel = Cancelar
+upload-confirm = Confirmar
+uploading = Fazendo o upload
+upload-chart-failed = Não foi possível fazer o upload
+upload-success = Upload feito com sucesso, por favor espere pela verificação
+upload-failed = Não foi possivel fazer o upload
+
+ldb = Placa de líderes
+ldb-load-failed = Não foi possivel carregar a placa de líderes
+ldb-no-rank = Nenhum
+ldb-score = Pontuação
 ldb-std = Purity
 
-info-name = Name
-info-composer = Composer
-info-charter = Charter
-info-difficulty = Difficulty
-info-desc = Description
-info-rating = Rating
-info-type = Type
+info-name = Nome
+info-composer = Músico
+info-charter = Autor
+info-difficulty = Difficuldade
+info-desc = Descrição
+info-rating = Classificação
+info-type = Tipo
 info-tags = Tags
 
-review-approve = Approve
-review-deny = Deny
-review-del = Delete online
-review-approved = Approved
-review-passed = Passed
-review-denied = Denied
-review-deleted = Deleted
-review-action-failed = Failed to perform review action
-review-doing = Executing action
-review-not-loaded = Info is not loaded, please wait
-review-edit-tags = Edit tags
-review-edit-tags-failed = Failed to edit tags
-review-edit-tags-done = Tags updated
+review-approve = Approvar
+review-deny = Rejeitar
+review-del = Deletar online
+review-approved = Approvado
+review-passed = Passou
+review-denied = Rejeitado
+review-deleted = Deletado
+review-action-failed = Não foi posivel fazer a sua classificação
+review-doing = Executando a ação
+review-not-loaded = Informação não carregada, aguarde
+review-edit-tags = Editar tags
+review-edit-tags-failed = Não foi possivel editar as tags
+review-edit-tags-done = Tags atualizadas
 
 mods = Mods
 mods-autoplay = Autoplay
-mods-autoplay-sub = Enabling this would disable record uploading
-mods-flip-x = Flip X
-mods-flip-x-sub = Flip on the X-axis
+mods-autoplay-sub = Ativando esse mod invalidara sua pontuação
+mods-flip-x = Espelho
+mods-flip-x-sub = Espelha a fase no axis x
 mods-fade-out = Fade out
-mods-fade-out-sub = Notes disappear when they approach the line
+mods-fade-out-sub = Notas desaparecem quando se aproxima da linha
 
-rate-failed = Rate failed
-rate-done = Rated successfully
+rate-failed = Não foi possivel avaliar
+rate-done = Avaliado com sucesso
 
-need-update = Update needed
+need-update = Atualização nessecaria
 need-update-info-only-content = The info of beatmap has updated. Do you want to sync the update?
 need-update-content = This beatmap has updated. You must sync your local version before uploading record. Do you want to do it now?
 
