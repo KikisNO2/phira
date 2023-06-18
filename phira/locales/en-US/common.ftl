@@ -12,4 +12,4 @@ switch-off = Off
 
 chart-ranked = Ranqueado
 chart-special = Especial
-chart-unstable = Instavel
+chart-unstable = Instável
