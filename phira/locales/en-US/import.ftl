@@ -1,9 +1,9 @@
 
-info-fail = Failed to load info
-invalid-chart = Invalid chart
+info-fail = Não foi possível ler as informações.
+invalid-chart = Fase invalida
 
-importing = Importing
-import-success = Imported successfully
-import-failed = Import failed
-import-respack-success = Imported successfully
-import-respack-failed = Failed to import respack
+importing = Importando
+import-success = Importado com sucesso
+import-failed = Importado sem sucesso
+import-respack-success = Importado com sucesso
+import-respack-failed = Não foi possível importar a skin.
